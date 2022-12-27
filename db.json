@@ -2,15 +2,17 @@
   "products": [
     {
       "id": 1,
-      "title": "Shirt 1",
-      "category": "shirt",
-      "price": 20
+      "title": "27 HP 27MX",
+      "category": "displays",
+      "price": 650,
+      "image": "https://admin.mediamarket.ba/uploads/389.jpg"
     },
     {
       "id": 2,
-      "title": "Shirt 2",
-      "category": "shirt",
-      "price": 25
+      "title": "LG 27UL500-W",
+      "category": "displays",
+      "price": 700,
+      "image": "https://admin.mediamarket.ba/uploads/391.jpg"
     },
     {
       "id": 3,
