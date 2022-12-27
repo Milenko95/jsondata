@@ -16,15 +16,17 @@
     },
     {
       "id": 3,
-      "title": "Shirt 3",
-      "category": "shirt",
-      "price": 30
+      "title": "MONITOR 22MC625BF",
+      "category": "displays",
+      "price": 550,
+      "image": "https://www.ct4partners.ba/UploadDownload/ProductImages/22MC625BF_220420100402004.jpg"
     },
     {
       "id": 4,
-      "title": "Jacket 1",
-      "category": "jacket",
-      "price": 100
+      "title": "PHILIPS 325E1C/00",
+      "category": "displays",
+      "price": 800,
+      "image": "https://admin.mediamarket.ba/uploads/930.jpg"
     },
     {
       "id": 5,
