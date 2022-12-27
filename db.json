@@ -30,39 +30,45 @@
     },
     {
       "id": 5,
-      "title": "Jacket 2",
-      "category": "jacket",
-      "price": 120
+      "title": "ASUS ZENBOOK PRO 15",
+      "category": "laptops",
+      "price": 2500,
+      "image": "https://admin.mediamarket.ba/uploads/1009.png"
     },
     {
       "id": 6,
-      "title": "Jacket 3",
-      "category": "jacket",
-      "price": 130
+      "title": "APPLE MACBOOK PRO 13.3"",
+      "category": "laptops",
+      "price": 2900,
+      "image": "https://content.it4profit.com/pimg/s/resize/900x900x900x900/210118170029384875.jpg"
     },
-    {
+   {
       "id": 7,
-      "title": "Jacket 4",
-      "category": "jacket",
-      "price": 150
+      "title": "THINKBOOK 13S G2 ITL",
+      "category": "laptops",
+      "price": 2700,
+      "image": "https://admin.mediamarket.ba/uploads/936.jpg"
     },
     {
       "id": 8,
-      "title": "Shoes 1",
-      "category": "shoe",
-      "price": 120
+      "title": "SONY ZX110 BLACK",
+      "category": "headphones",
+      "price": 120,
+      "image": "https://www.ue.ba/img/product/26574-Sony-slualice-ZX110-Black-4.jpg"
     },
     {
-      "id": 9,
-      "title": "Shoes 2",
-      "category": "shoe",
-      "price": 155
+       "id": 9,
+      "title": "PHILIPS NC",
+      "category": "headphones",
+      "price": 150,
+      "image": "https://www.ct4partners.ba/UploadDownload/ProductImages/TAH6506BK[]00_1.jpg"
     },
     {
-      "id": 10,
-      "title": "Shoes 3",
-      "category": "shoe",
-      "price": 170
+       "id": 10,
+      "title": "LENOVO IDEAPAD H100",
+      "category": "headphones",
+      "price": 90,
+      "image": "https://content.it4profit.com/pimg/s/resize/900x900x900x900/220524160016723040.jpg"
     }
     
   ]
