@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Shirt 1",
+      "category": "shirt",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "title": "Shirt 2",
+      "category": "shirt",
+      "price": 25
+    },
+    {
+      "id": 3,
+      "title": "Shirt 3",
+      "category": "shirt",
+      "price": 30
+    },
+    {
+      "id": 4,
+      "title": "Jacket 1",
+      "category": "jacket",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "title": "Jacket 2",
+      "category": "jacket",
+      "price": 120
+    },
+    {
+      "id": 6,
+      "title": "Jacket 3",
+      "category": "jacket",
+      "price": 130
+    },
+    {
+      "id": 7,
+      "title": "Jacket 4",
+      "category": "jacket",
+      "price": 150
+    },
+    {
+      "id": 8,
+      "title": "Shoes 1",
+      "category": "shoe",
+      "price": 120
+    },
+    {
+      "id": 9,
+      "title": "Shoes 2",
+      "category": "shoe",
+      "price": 155
+    },
+    {
+      "id": 10,
+      "title": "Shoes 3",
+      "category": "shoe",
+      "price": 170
+    }
+    
+  ]
+}
